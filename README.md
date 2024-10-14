@@ -23,9 +23,9 @@ The dataset consists of:
 - Customer Insights: Segmentation revealed that premium customers contributed more to the increase in sales, while mainstream customers were more price-sensitive.
 
 ## Results
--The intervention led to an overall increase in sales and customer transactions in the trial stores.
--Store 77 and Store 86 outperformed their control stores, with notable improvements in sales performance during the trial period.
--Based on these findings, the intervention can be scaled to other stores with similar customer profiles.
+- The intervention led to an overall increase in sales and customer transactions in the trial stores.
+- Store 77 and Store 86 outperformed their control stores, with notable improvements in sales performance during the trial period.
+- Based on these findings, the intervention can be scaled to other stores with similar customer profiles.
 
 ## Technologies Used
 - Python for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
