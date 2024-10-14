@@ -5,9 +5,9 @@ This project focuses on analyzing the impact of a targeted intervention in selec
 ## Objective
 The primary objective of this project was to:
 
-1.Measure the effectiveness of a marketing or operational intervention in increasing sales and customer transactions.
-2.Compare the performance of trial stores with control stores to ensure the observed changes were due to the intervention and not external factors.
-3. Provide insights into customer segmentation, identifying the impact on different customer groups (e.g., premium vs. mainstream customers).
+- Measure the effectiveness of a marketing or operational intervention in increasing sales and customer transactions.
+- Compare the performance of trial stores with control stores to ensure the observed changes were due to the intervention and not external factors.
+- Provide insights into customer segmentation, identifying the impact on different customer groups (e.g., premium vs. mainstream customers).
 
 ## Data
 The dataset consists of:
